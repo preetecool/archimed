@@ -1,0 +1,9 @@
+for diabetes,
+please document, does the patient take blood glucose values
+are they well controlled
+what are the medication currently used
+are they well tolerated
+are there any hypoglycemias
+is the weight stable
+did the patient see the optometrist in the last year for diabetic retinopathy screening
+any other pertinent detail as necessary

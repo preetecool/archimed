@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  frontend:
+    build: ./client
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./client:/app
+      - /app/node_modules
+    command: npm run dev
+
+  transcription:
+    build: ./transcription
+    ports:
+      - "8080:8000"
+    volumes:
+      - ./transcription:/app
+    command: python run.py

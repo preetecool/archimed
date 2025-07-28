@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Archimed - A simple and powerful AI scribe for healthcare professionals",
+    "description": "Transcribe your consultations and automatically generate medical reports. Save time with a fast, accurate, and secure solution."
+  },
+
+  "navigation": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "free_trial": "Free Trial",
+    "back_to_app": "Back to App",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "settings": "Settings"
+  },
+  "hero": {
+    "badge": "AI Scribe",
+    "title": "A simple and powerful AI scribe",
+    "title_start": "A simple and powerful ",
+    "title_highlight": "AI scribe",
+    "title_end": "",
+    "subtitle": "Transcribe and automatically generate medical reports.",
+    "cta_primary": "Get Started",
+    "cta_secondary": "Watch Demo"
+  },
+  "features": {
+    "title": "Why Choose Archimed?",
+    "subtitle": "A solution designed in Quebec, by and for doctors",
+    "card1": {
+      "title": "Simple and Intuitive",
+      "description": "Clean interface designed to integrate naturally into your workflow. No training required."
+    },
+    "card2": {
+      "title": "Secure and Confidential",
+      "description": "Maximum protection of your data."
+    },
+    "card3": {
+      "title": "Fast Transcription",
+      "description": "Get your transcriptions in real-time with unmatched 99.8% accuracy."
+    },
+    "try_button": "Try it"
+  },
+  "pricing": {
+    "title": "Simple pricing tailored to your needs",
+    "subtitle": "Discover our advanced features.",
+    "trial": {
+      "name": "Free Trial",
+      "description": "Perfect for testing all features and discovering Archimed.",
+      "duration": "free days",
+      "price": "Free",
+      "cta": "Start Trial",
+      "period": "for 2 weeks"
+    },
+    "professional": {
+      "name": "Professional",
+      "recommended": "Recommended",
+      "description": "Ideal for independent healthcare professionals.",
+      "price": "$150",
+      "period": "/month",
+      "cta": "Get Started"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "Complete solution for healthcare institutions.",
+      "price": "Custom",
+      "cta": "Contact Us"
+    },
+    "features": {
+      "trial": ["Unlimited transcription", "Access to all features", "Data export"],
+      "professional": [
+        "Everything in free trial",
+        "24/7 support",
+        "Custom fine-tuned model",
+        "Priority support"
+      ],
+      "enterprise": [
+        "Everything in professional",
+        "Local deployment",
+        "Guaranteed SLA",
+        "Dedicated account manager",
+        "On-site training"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "What our customers say",
+    "subtitle": "Discover the experiences of healthcare professionals using our solution"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about our services",
+    "questions": [
+      {
+        "question": "How does the free trial work?",
+        "answer": "Our free trial gives you access to all features for 7 days. No credit card is required to start, and you can cancel at any time during the trial period without being charged."
+      },
+      {
+        "question": "Can I change plans at any time?",
+        "answer": "Yes, you can upgrade to a higher plan at any time. The price difference will be prorated for the remainder of your billing cycle. You can also downgrade to a lower plan at the beginning of your next billing cycle."
+      },
+      {
+        "question": "How does billing work?",
+        "answer": "Billing is monthly or annual, depending on the option you choose when signing up. Payments are automatically charged on the same day each month for monthly plans, or once a year for annual plans."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept major credit cards (Visa, Mastercard, American Express) as well as PayPal payments and bank transfers for Enterprise plans."
+      },
+      {
+        "question": "How does technical support work?",
+        "answer": "All plans include email support. Professional and Enterprise plans also include priority support via phone and live chat during business hours. The Enterprise plan benefits from 24/7 support."
+      }
+    ]
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "remember_me": "Remember me",
+      "forgot_password": "Forgot password?",
+      "sign_in": "Sign In",
+      "or": "OR",
+      "continue_with_google": "Continue with Google",
+      "loading": "Loading...",
+      "no_account": "Don't have an account?",
+      "create_account": "Create account"
+    },
+    "register": {
+      "title": "Create an account",
+      "email": "Email",
+      "password": "Password",
+      "confirm_password": "Confirm password",
+      "passwords_dont_match": "Passwords don't match",
+      "agree_terms": "I agree to the",
+      "terms": "terms of service",
+      "and": "and",
+      "privacy": "privacy policy",
+      "register": "Create account",
+      "or": "OR",
+      "register_with_google": "Sign up with Google",
+      "loading": "Loading...",
+      "have_account": "Already registered?",
+      "sign_in": "Sign in"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "loading": "Loading",
+    "manageSettings": "Manage your account settings and preferences",
+    "profile": {
+      "title": "Profile",
+      "name": "Name",
+      "email": "Email",
+      "email_not_verified": "Your email is not verified.",
+      "resend_verification": "Re-send verification email",
+      "save": "Save"
+    },
+    "account": {
+      "title": "Account Verification"
+    },
+    "license": {
+      "title": "Medical License",
+      "current": "Medical License",
+      "update": "Update",
+      "save": "Save",
+      "cancel": "Cancel",
+      "success_message": "Medical license successfully updated"
+    },
+    "password": {
+      "title": "Change password",
+      "current": "Current password",
+      "new": "New password",
+      "confirm": "Confirm Password",
+      "update": "Update"
+    }
+  },
+  "app": {
+    "title": "Archimed",
+    "transcription": {
+      "title": "Medical Transcription",
+      "start_recording": "Start Recording",
+      "stop_recording": "Stop Recording",
+      "ready_to_record": "Ready to record"
+    },
+    "license_required": {
+      "title": "Medical License Required",
+      "message": "Please register your medical license to continue using the application.",
+      "action": "Enter License"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "verified_account": "Your account is verified.",
+    "unverified_account": "Your email is not yet verified. Please check your inbox.",
+    "resend_verification": "Resend verification email",
+    "quick_actions": "Quick Actions",
+    "settings": "Account Settings",
+    "subscription": {
+      "title": "Your Subscription",
+      "loading": "Loading information...",
+      "status": {
+        "active": "Active",
+        "trial": "Trial",
+        "inactive": "Inactive"
+      },
+      "plan": {
+        "none": "No active subscription",
+        "trial": "Free Trial",
+        "monthly": "Monthly Subscription",
+        "enterprise": "Enterprise Subscription"
+      },
+      "expiry": "Your subscription is valid until",
+      "trial_expiry": "Your trial period ends on",
+      "upgrade_message": "Upgrade to a subscription to continue using all services after your trial period.",
+      "subscribe_now": "Subscribe now",
+      "subscribe_message": "Subscribe to a plan to access all services.",
+      "start_trial": "Start free trial",
+      "view_pricing": "View pricing"
+    },
+    "license": {
+      "title": "Medical License",
+      "loading": "Loading information...",
+      "registered": "Medical license:",
+      "missing": "No medical license registered."
+    },
+    "usage": {
+      "title": "Usage Statistics",
+      "transcriptions": "Transcriptions",
+      "total_time": "Total time",
+      "consultations": "Consultations"
+    }
+  },
+  "trial": {
+    "title": "Free Trial Activation",
+    "subtitle": "Start your 14-day free trial of Archimed",
+    "activating": "Activating your trial...",
+    "activation_failed": "Trial Activation Failed",
+    "try_again": "Try Again",
+    "activation_success": "Trial Successfully Activated!",
+    "activation_message": "Your free trial has been activated. You now have full access to all features for 14 days.",
+    "expiry_info": "Your trial expires on",
+    "go_to_dashboard": "Go to Dashboard",
+    "start_transcribing": "Start Transcribing",
+    "activate_heading": "Start Your Free Trial",
+    "activate_description": "Experience all the features of Archimed for 14 days. A valid payment method is required for verification, but you won't be charged during the trial period.",
+    "activate_button": "Activate Free Trial",
+    "activation_success_toast": "Free trial activated successfully!",
+    "default_error": "There was an error activating your trial. Please try again.",
+    "payment_method_required": "A valid payment method is required to start your trial. You won't be charged during the trial period.",
+    "payment_explanation": "Please provide your payment method to start your free trial. You will not be charged during the trial period. After your trial ends, your subscription will automatically convert to a paid plan unless you cancel.",
+    "payment_method": "Add Payment Method",
+    "confirm_payment_method": "Confirm Payment Method",
+    "payment_setup_error": "There was an error setting up the payment system. Please try again later.",
+    "processing": "Processing...",
+    "payment_error": "There was an error verifying your payment method."
+  },
+  "payment": {
+    "title": "Payment",
+    "subtitle": "Complete your payment securely",
+    "summary": "Order Summary",
+    "total": "Total",
+    "method": "Payment Method",
+    "promo": "Promotion (launch discount)",
+    "contact_us": "Contact Us",
+    "enterprise_description": "Contact our sales team to discuss your specific needs and get a custom quote.",
+    "contact_team": "Contact Sales Team",
+    "custom_plan": "Custom Plan",
+    "custom_price": "Custom Quote",
+    "payment_success": "Payment Successful!",
+    "payment_details": "Payment Details",
+    "payment_id": "Payment ID:",
+    "amount": "Amount:",
+    "date": "Date:",
+    "back_to_dashboard": "Back to Dashboard",
+    "processing": "Processing payment...",
+    "success_message": "Your payment has been processed successfully. Thank you for your purchase.",
+    "error_retrieving_details": "Unable to retrieve payment details",
+    "subscription_activated": "Your subscription has been activated",
+    "subscription_will_begin": "Your subscription will begin immediately",
+    "redirecting": "Redirecting to free trial...",
+    "redirect_message": "You'll be redirected to the free trial activation page momentarily.",
+    "error_message": "An error occurred during payment processing. Please try again.",
+    "history_title": "Payment History",
+    "history_error": "Could not load payment history",
+    "no_payments": "No payment history found",
+    "loading": "Loading payment system...",
+    "load_more": "Load more"
+  },
+
+  "recording": {
+    "title": "Medical Transcription",
+    "start": "Start Recording",
+    "stop": "Stop Recording",
+    "ready": "Ready to record",
+    "connection_error": "Server connection error. Please try again.",
+    "mic_permission_error": "Please allow microphone access in your browser settings.",
+    "current_session": "Current Recording",
+    "live": "Live",
+    "real_time_transcription": "Real-time Transcription",
+    "consultation_reasons": "Consultation Reasons",
+    "remove_reason": "Remove reason",
+    "update_reasons": "Update Reasons",
+    "session_deleted": "Session deleted successfully",
+    "note_copied": "Medical note copied to clipboard",
+    "copy_error": "Error copying to clipboard",
+    "note_downloaded": "Medical note downloaded",
+    "empty": {
+      "title": "No Recordings",
+      "description": "Click 'Start Recording' to begin a new session"
+    },
+    "session": {
+      "processing": "Processing",
+      "completed": "Completed",
+      "show_details": "Show Details",
+      "hide_details": "Hide Details",
+      "consultation_details": "Consultation Details",
+      "full_transcription": "Full Transcription",
+      "medical_note": "Medical Note",
+      "copy_note": "Copy Note",
+      "download_note": "Download Note",
+      "delete_session": "Delete Session",
+      "progress": "Progress"
+    },
+    "transcription_box": {
+      "title": "Live Transcription",
+      "empty_message": "Transcription will appear here once recording starts...",
+      "timer": "Session time"
+    },
+    "past_sessions": {
+      "title": "Past Sessions",
+      "view_session": "View Session",
+      "hide_session": "Hide Details",
+      "no_sessions": "No recorded sessions yet"
+    },
+    "admin": {
+      "title": "Storage Management",
+      "audio_chunks": "Audio Chunks",
+      "transcripts": "Transcripts",
+      "sessions": "Sessions",
+      "total": "Total Storage",
+      "refresh": "Refresh",
+      "cleanup": "Run Cleanup"
+    },
+    "status": {
+      "processing": "Processing audio... Next update in {seconds}s",
+      "syncing": "Synchronizing {done}/{count} chunks..."
+    }
+  },
+  "subscription": {
+    "plan": "Plan",
+    "error": "An error occurred while loading your subscription information.",
+    "your_subscription": "Your Subscription",
+    "current_period": "Current Period",
+    "ends_notice": "Your subscription will end at the end of the current billing period.",
+    "trial_notice": "Your trial will end in {days} days.",
+    "no_active_subscription": "You don't have an active subscription.",
+    "view_plans": "View Plans",
+    "cancel": "Cancel subscription",
+    "update_payment_method": "Update payment method"
+  }
+}

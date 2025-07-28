@@ -1,0 +1,30 @@
+pour une douleur à l'oreille, 
+svp documentez
+depuis quand?
+s'il y a un écoulement: ottorhée
+s'il y a de la fièvre
+s'il y a de la congestion nasale
+s'il y a une douleur à la gorge
+
+si le patient a été à la piscine ou s'il y a d'autre expositions
+
+Si une douleur à la gorge,
+svp documentez
+depuis quand?
+s'il y a une douleur à avaler (odynophagie)
+s'il y a une incapacité à avaler tout liquide ou solide (dysphagie)
+s'il y a de la toux
+de la fièvre : depuis quand, toujours présente, durée, chiffre?
+si le chiffre est supérieure à 50: indiquer F pour farenheit sinon C ou celcius
+s'il y a de l'essouflement (dyspnée)
+nausée ou vomissement?
+état général?
+Traitement essayés
+les symptômes s'améliorent ou s'empirent
+
+Dans la section plan:
+svp inscrire si un antibiotique est prescrit ou non: 
+les tests demandés
+le suivi proposé
+si le médecin a donné des conseils pour consulter à l'urgence en cas de: svp nommez ces conditions
+si le médecin a donné des conseils pour reconsulter, svp nommez ces conditions

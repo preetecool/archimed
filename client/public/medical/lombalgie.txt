@@ -1,0 +1,20 @@
+Pour l'évaluation de la lombalgie,
+svp spécifier depuis quand
+s'il y a eu un accident ou faux mouvement
+la sévérité de la douleur
+si ça réveil le patient la nuit
+si la lombalgie irradie dans une jambe ou les deux
+s'il y a des engourdissement dans les jambes (paresthésie = terme médical à utiliser)
+s'il y a une faiblesse dans la jambe (parésie = terme médical à utiliser)
+s'il y a des symptôme sphinctérien : incontinence de selle ou urine ou rétention ou paresthésie autour de l'anus
+si pas de sym^tome sphinctérien, simplement inscrire: pas de symptôme sphinctérien
+quel est la limitation engendrée par la lombalgie
+si des traitements ont été tenté dans le passé 
+quels examens ont déja été fait et si un diagnostic est déjà formulé
+quel sont les attentes du patient
+
+dans le plan, 
+spécifier les tests demandés
+les traitements offerts
+le suivi offert
+et les conseils données

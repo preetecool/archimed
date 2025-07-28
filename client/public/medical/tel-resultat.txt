@@ -1,0 +1,8 @@
+Pour un suivi de résultat, svp documentez:
+quel est le résultat reçu
+si d'autres tests restent en attente
+quel est le diagnostic
+quel est le suivi restants
+quels actions seront pris par le médecin
+que doit faire le patient
+quels sont les prescriptions

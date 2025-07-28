@@ -1,0 +1,369 @@
+{
+	"meta": {
+		"title": "Archimed - Un scribe IA simple et puissant pour les professionnels de santé",
+		"description": "Transcrivez vos consultations et générez des rapports médicaux automatiquement. Gagnez du temps avec une solution rapide, précise et sécurisée."
+	},
+	"navigation": {
+		"features": "Fonctionnalités",
+		"pricing": "Tarifs",
+		"about": "À propos",
+		"contact": "Contact",
+		"login": "Connexion",
+		"free_trial": "Essai gratuit",
+		"back_to_app": "Retour à l'app",
+		"logout": "Déconnexion",
+		"dashboard": "Dashboard",
+		"settings": "Paramètres"
+	},
+	"hero": {
+		"badge": "Scribe IA",
+		"title": "Un scribe IA simple et puissant",
+		"title_start": "Un ",
+		"title_highlight": "scribe IA ",
+		"title_end": "simple et puissant",
+		"subtitle": "Transcrivez et générez des rapports médicaux automatiquement.",
+		"cta_primary": "Démarrer maintenant",
+		"cta_secondary": "Regarder la démo"
+	},
+	"features": {
+		"title": "Pourquoi choisir Archimed?",
+		"subtitle": "Une solution conçue au Québec, par et pour les médecins",
+		"card1": {
+			"title": "Simple et Intuitif",
+			"description": "Interface épurée conçue pour s'intégrer naturellement dans votre flux de travail. Aucune formation nécessaire."
+		},
+		"card2": {
+			"title": "Sécurisé et Confidentiel",
+			"description": "Protection maximale de vos données."
+		},
+		"card3": {
+			"title": "Transcription Rapide",
+			"description": "Obtenez vos transcriptions en temps réel avec une précision inégalée de 99.8%."
+		},
+		"try_button": "Essayer"
+	},
+	"pricing": {
+		"title": "Tarification personnalisée",
+		"subtitle": "Découvrez nos fonctionnalités avancées. ",
+		"trial": {
+			"name": "Essai Gratuit",
+			"description": "Parfait pour tester toutes les fonctionnalités et découvrir Archimed.",
+			"duration": "jours gratuits",
+			"price": "Gratuit",
+			"cta": "Commencer l'essai",
+			"period": "pour 2 semaines"
+		},
+		"professional": {
+			"name": "Professionnel",
+			"recommended": "Recommandé",
+			"description": "Idéal pour les professionnels de santé indépendants.",
+			"price": "$150",
+			"period": "/mois",
+			"cta": "Démarrer maintenant"
+		},
+		"enterprise": {
+			"name": "Enterprise",
+			"description": "Solution complète pour les établissements de santé.",
+			"price": "Sur mesure",
+			"cta": "Nous contacter"
+		},
+		"features": {
+			"trial": [
+				"Transcription illimitée",
+				"Accès à toutes les fonctionnalités",
+				"Exportation des données"
+			],
+			"professional": [
+				"Tout ce qui est inclus dans l'essai gratuit",
+				"Support 24/7",
+				"Modèle personnalisé et affiné",
+				"Support prioritaire"
+			],
+			"enterprise": [
+				"Tout ce qui est inclus dans l'offre professionnelle",
+				"Déploiement local",
+				"SLA garanti",
+				"Gestionnaire de compte dédié",
+				"Formation sur site"
+			]
+		}
+	},
+	"testimonials": {
+		"title": "Ce que disent nos clients",
+		"subtitle": "Découvrez les expériences de professionnels de santé qui utilisent notre solution"
+	},
+	"faq": {
+		"title": "Questions fréquentes",
+		"subtitle": "Tout ce que vous devez savoir sur nos services",
+		"questions": [
+			{
+				"question": "Comment fonctionne la période d'essai gratuit ?",
+				"answer": "Notre essai gratuit vous donne accès à toutes les fonctionnalités pendant 7 jours. Aucune carte de crédit n'est requise pour commencer, et vous pouvez annuler à tout moment pendant la période d'essai sans être facturé."
+			},
+			{
+				"question": "Puis-je changer de forfait à tout moment ?",
+				"answer": "Oui, vous pouvez passer à un forfait supérieur à tout moment. La différence de prix sera calculée au prorata pour le reste de votre cycle de facturation. Vous pouvez également passer à un forfait inférieur au début de votre prochain cycle de facturation."
+			},
+			{
+				"question": "Comment fonctionne la facturation ?",
+				"answer": "La facturation est mensuelle ou annuelle, selon l'option que vous choisissez lors de l'inscription. Les paiements sont automatiquement prélevés le même jour chaque mois pour les forfaits mensuels, ou une fois par an pour les forfaits annuels."
+			},
+			{
+				"question": "Quelles méthodes de paiement acceptez-vous ?",
+				"answer": "Nous acceptons les principales cartes de crédit (Visa, Mastercard, American Express) ainsi que les paiements par PayPal et les virements bancaires pour les forfaits Enterprise."
+			},
+			{
+				"question": "Comment fonctionne le support technique ?",
+				"answer": "Tous les forfaits comprennent un support par email. Les forfaits Professionnel et Enterprise incluent également un support prioritaire par téléphone et chat en direct pendant les heures ouvrables. Le forfait Enterprise bénéficie d'un support 24/7."
+			}
+		]
+	},
+	"auth": {
+		"login": {
+			"title": "Connexion",
+			"email": "Email",
+			"password": "Mot de passe",
+			"remember_me": "Se souvenir de moi",
+			"forgot_password": "Mot de passe oublié?",
+			"sign_in": "Se connecter",
+			"or": "OU",
+			"continue_with_google": "Continuer avec Google",
+			"loading": "Chargement...",
+			"no_account": "Pas encore de compte?",
+			"create_account": "Créer un compte"
+		},
+		"register": {
+			"title": "Créer un compte",
+			"email": "Email",
+			"password": "Mot de passe",
+			"confirm_password": "Confirmer le mot de passe",
+			"passwords_dont_match": "Les mots de passe ne correspondent pas",
+			"agree_terms": "J'accepte les",
+			"terms": "conditions d'utilisation",
+			"and": "et la",
+			"privacy": "politique de confidentialité",
+			"register": "Créer un compte",
+			"or": "OU",
+			"register_with_google": "S'inscrire avec Google",
+			"loading": "Chargement...",
+			"have_account": "Déjà inscrit?",
+			"sign_in": "Se connecter"
+		}
+	},
+	"settings": {
+		"title": "Paramètres",
+		"loading": "Chargement des informations...",
+		"manageSettings": "Gérez les paramètres et les préférences de votre compte",
+		"profile": {
+			"title": "Profil",
+			"name": "Nom",
+			"email": "Email",
+			"email_not_verified": "Votre email n'est pas encore vérifié.",
+			"resend_verification": "Renvoyer l'email de vérification",
+			"save": "Enregistrer"
+		},
+		"account": {
+			"title": "Vérification du compte"
+		},
+		"license": {
+			"title": "Licence médicale",
+			"current": "Licence médicale",
+			"update": "Mettre à jour",
+			"save": "Enregistrer",
+			"cancel": "Annuler",
+			"success_message": "Licence médicale mise à jour avec succès"
+		},
+		"password": {
+			"title": "Modifier le mot de passe",
+			"current": "Mot de passe actuel",
+			"new": "Nouveau mot de passe",
+			"confirm": "Confirmer le mot de passe",
+			"update": "Mettre à jour"
+		}
+	},
+	"app": {
+		"title": "Archimed",
+		"transcription": {
+			"title": "Transcription Médicale",
+			"start_recording": "Commencer l'enregistrement",
+			"stop_recording": "Arrêter l'enregistrement",
+			"ready_to_record": "Prêt à enregistrer"
+		},
+		"license_required": {
+			"title": "Licence Médicale Requise",
+			"message": "Veuillez enregistrer votre numéro de licence médicale pour continuer à utiliser l'application.",
+			"action": "Saisir une Licence"
+		}
+	},
+	"dashboard": {
+		"title": "Tableau de bord",
+		"welcome": "Bienvenue",
+		"verified_account": "Votre compte est vérifié.",
+		"unverified_account": "Votre email n'est pas encore vérifié. Veuillez vérifier votre boîte de réception.",
+		"resend_verification": "Renvoyer l'email de vérification",
+		"quick_actions": "Actions rapides",
+		"settings": "Paramètres du compte",
+		"subscription": {
+			"title": "Votre abonnement",
+			"loading": "Chargement des informations...",
+			"status": {
+				"active": "Actif",
+				"trial": "Essai",
+				"inactive": "Inactif"
+			},
+			"plan": {
+				"none": "Aucun abonnement actif",
+				"trial": "Essai gratuit",
+				"monthly": "Abonnement mensuel",
+				"enterprise": "Abonnement entreprise"
+			},
+			"expiry": "Votre abonnement est valide jusqu'au",
+			"trial_expiry": "Votre période d'essai se termine le",
+			"upgrade_message": "Passez à un abonnement pour continuer à utiliser tous les services après votre période d'essai.",
+			"subscribe_now": "Souscrire maintenant",
+			"subscribe_message": "Souscrivez à un abonnement pour accéder à tous les services.",
+			"start_trial": "Commencer un essai gratuit",
+			"view_pricing": "Voir les tarifs"
+		},
+		"license": {
+			"title": "Licence médicale",
+			"loading": "Chargement des informations...",
+			"registered": "Licence médicale:",
+			"missing": "Aucune licence médicale enregistrée."
+		},
+		"usage": {
+			"title": "Statistiques d'utilisation",
+			"transcriptions": "Transcriptions",
+			"total_time": "Temps total",
+			"consultations": "Consultations"
+		}
+	},
+	"trial": {
+		"title": "Activation de l'essai gratuit",
+		"subtitle": "Commencez votre période d'essai gratuit de 14 jours d'Archimed",
+		"activating": "Activation de votre période d'essai...",
+		"activation_failed": "Échec de l'activation",
+		"try_again": "Réessayer",
+		"activation_success": "Essai activé avec succès !",
+		"activation_message": "Votre période d'essai gratuit a été activée. Vous avez maintenant accès à toutes les fonctionnalités pendant 14 jours.",
+		"expiry_info": "Votre période d'essai se termine le",
+		"go_to_dashboard": "Aller au tableau de bord",
+		"start_transcribing": "Commencer à transcrire",
+		"activate_heading": "Démarrer votre essai gratuit",
+		"activate_description": "Découvrez toutes les fonctionnalités d'Archimed pendant 14 jours. Une méthode de paiement valide est requise pour vérification, mais aucun montant ne sera débité pendant la période d'essai.",
+		"activate_button": "Activer l'essai gratuit",
+		"activation_success_toast": "Essai gratuit activé avec succès !",
+		"default_error": "Une erreur s'est produite lors de l'activation de votre essai. Veuillez réessayer.",
+		"payment_method_required": "Une méthode de paiement valide est requise pour démarrer votre période d'essai. Vous ne serez pas débité pendant la période d'essai.",
+		"payment_explanation": "Veuillez fournir votre méthode de paiement pour commencer votre période d'essai gratuite. Vous ne serez pas débité pendant la période d'essai. Après la fin de votre période d'essai, votre abonnement sera automatiquement converti en formule payante, sauf si vous l'annulez.",
+		"payment_method": "Ajouter une méthode de paiement",
+		"confirm_payment_method": "Confirmer la méthode de paiement",
+		"payment_setup_error": "Une erreur s'est produite lors de la configuration du système de paiement. Veuillez réessayer plus tard.",
+		"processing": "Traitement en cours...",
+		"payment_error": "Une erreur s'est produite lors de la vérification de votre méthode de paiement."
+	},
+	"payment": {
+		"title": "Paiement",
+		"subtitle": "Complétez votre paiement en toute sécurité",
+		"summary": "Récapitulatif de la commande",
+		"total": "Total",
+		"method": "Méthode de paiement",
+		"promo": "Promotion (réduction de lancement)",
+		"contact_us": "Contactez-nous",
+		"enterprise_description": "Contactez notre équipe commerciale pour discuter de vos besoins spécifiques et obtenir un devis personnalisé.",
+		"contact_team": "Contacter l'équipe commerciale",
+		"custom_plan": "Plan personnalisé",
+		"custom_price": "Sur devis",
+		"payment_success": "Paiement réussi !",
+		"payment_details": "Détails du paiement",
+		"payment_id": "ID de paiement:",
+		"amount": "Montant:",
+		"date": "Date:",
+		"back_to_dashboard": "Retour au tableau de bord",
+		"processing": "Traitement du paiement...",
+		"success_message": "Votre paiement a été traité avec succès. Merci pour votre achat.",
+		"error_retrieving_details": "Impossible de récupérer les détails du paiement",
+		"subscription_activated": "Votre abonnement a été activé",
+		"subscription_will_begin": "Votre abonnement commence immédiatement",
+		"redirecting": "Redirection vers l'essai gratuit...",
+		"redirect_message": "Vous allez être redirigé vers la page d'activation de l'essai gratuit dans un instant.",
+		"error_message": "Une erreur s'est produite lors du traitement du paiement. Veuillez réessayer.",
+		"history_title": "Historique des paiements",
+		"history_error": "Impossible de charger l'historique des paiements",
+		"no_payments": "Aucun historique de paiement trouvé",
+		"loading": "Chargement du système de paiement...",
+		"load_more": "Voir plus"
+	},
+
+	"recording": {
+		"title": "Transcription Médicale",
+		"start": "Commencer l'enregistrement",
+		"stop": "Arrêter l'enregistrement",
+		"ready": "Prêt à enregistrer",
+		"connection_error": "Erreur de connexion au serveur. Veuillez réessayer.",
+		"mic_permission_error": "Veuillez autoriser l'accès au microphone dans les paramètres de votre navigateur.",
+		"current_session": "Enregistrement en cours",
+		"live": "En direct",
+		"real_time_transcription": "Transcription en temps réel",
+		"consultation_reasons": "Motifs de consultation",
+		"remove_reason": "Supprimer le motif",
+		"update_reasons": "Mettre à jour les motifs",
+		"session_deleted": "Session supprimée avec succès",
+		"note_copied": "Note médicale copiée",
+		"copy_error": "Erreur lors de la copie",
+		"note_downloaded": "Note médicale téléchargée",
+		"empty": {
+			"title": "Aucun enregistrement",
+			"description": "Cliquez sur 'Commencer l'enregistrement' pour démarrer une nouvelle session"
+		},
+		"session": {
+			"processing": "Traitement en cours",
+			"completed": "Terminé",
+			"show_details": "Afficher les détails",
+			"hide_details": "Masquer les détails",
+			"consultation_details": "Détails de la consultation",
+			"full_transcription": "Transcription complète",
+			"medical_note": "Note médicale",
+			"copy_note": "Copier la note",
+			"download_note": "Télécharger la note",
+			"delete_session": "Supprimer la session",
+			"progress": "Progression"
+		},
+		"transcription_box": {
+			"title": "Transcription en direct",
+			"empty_message": "La transcription apparaîtra ici une fois l'enregistrement démarré...",
+			"timer": "Durée de la session"
+		},
+		"past_sessions": {
+			"title": "Sessions précédentes",
+			"view_session": "Voir la session",
+			"hide_session": "Masquer les détails",
+			"no_sessions": "Aucune session enregistrée"
+		},
+		"admin": {
+			"title": "Gestion de Storage",
+			"audio_chunks": "Chunks Audio",
+			"transcripts": "Transcriptions",
+			"sessions": "Séances",
+			"total": "Storage Total",
+			"refresh": "Rafraîchir",
+			"cleanup": "Nettoyage"
+		},
+		"status": {
+			"processing": "Processing audio... Next update in {seconds}s",
+			"syncing": "Synchronizing {done}/{count} chunks..."
+		}
+	},
+	"subscription": {
+		"plan": "Forfait",
+		"error": "Une erreur s'est produite lors du chargement des informations de votre abonnement.",
+		"your_subscription": "Votre Abonnement",
+		"current_period": "Période Actuelle",
+		"ends_notice": "Votre abonnement prendra fin à la fin de la période de facturation en cours.",
+		"trial_notice": "Votre période d'essai se terminera dans {days} jours.",
+		"no_active_subscription": "Vous n'avez pas d'abonnement actif.",
+		"view_plans": "Voir les Forfaits",
+		"cancel": "Annuler l'abonnement",
+		"update_payment_method": "Mettre à jour le mode de paiement"
+	}
+}

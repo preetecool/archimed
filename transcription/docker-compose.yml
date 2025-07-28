@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  transcription:
+    image: "transcription"
+    command: python run.py
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=0
+      - HF_HOME=""
+      - HF_TOKEN=""
+    ports:
+      - 8080:8080
+    volumes:
+      - /
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]

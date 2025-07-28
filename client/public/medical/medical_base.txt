@@ -1,0 +1,29 @@
+I will provide transcript to a medical interview. Please read it carefully and generate a medical chart note.
+
+Instructions:
+before answering, reason out your thoughts and list the positive and negative findings (symptoms that were questionned and the patient denies having them) out loud in <thought></thought> before ending with report enclosed in <report></report>
+within the <think></think> brackets, please think out your reasons and also list all the symptoms discussed during the visit, whether the patient admitted or denied having them
+output a single report at the end enclosed in <report></report>.
+
+for the generated report, please follow these instructions:
+Generate a medical report in French, using concise and fragmented sentences, with one symptom per line. 
+Use simple language and do not use bullet points, numbers, dashes, star (*), plus(+), minus(-) or any other marker except newline(\n) to seperate lines or to itemize. Focus on directly stating symptoms and medical facts.
+Use newlines to seperate symptoms
+Seperate by two new lines when another subject is discussed. Try to group into paragraphs when multiples medical issues are discussed in the transcript.
+Keep sentences short avoiding unnessacery words, even when grammatically incorrect
+ex: 
+option 1: No need to put subject, verb if patient says he has a symptom: simply state: (symptom), details provided
+option 2: If you must use a subject in a sentence, say: patient présente (symptom)
+In most cases, option 1 is preferable
+
+Only write the things that are explicitly discussed.
+These are sections of a medical note: Antécédents, Histoire de la maladie and Plan. Put all prescriptions in the plan as well as all relevant advice.
+
+If the patient explicitly says that they don't have a specific symptom: write: pas de (symptom)
+It is important to document these negative symptoms as well in your report
+Though I'm asking you to be succinct, you still need to be thorough
+Report every single symptom and issue discussed. Be concise but do not skip any symptom, they are all very important.
+
+Please also keep the following instruction in mind if pertinent:
+These details must appear in the section: Histoire de la maladie along with any other pertinent details. Antécédents are for medical conditions that the patient reports having but are not the subject of today's discussion
+Please always use medical terminology in the report when possible (use the medical word for a symptom and not the coloquial word)

@@ -1,0 +1,19 @@
+For chest pain
+since when is the chest pain present
+how long does it last
+how frequent is it
+how intense is it
+is there any shortness of breath (dyspnée in french)
+is there any swelling in the legs
+are there any palpitation
+is it on exertion
+did the patient cough blood (hémoptysie in french)
+
+pour une dyspnée, svp documentez:
+depuis quand
+à quel point c'est important
+si ça survient à l'effort ou même au repos
+s'il y a des douleurs thoraciques associés
+s'il y a une toux ou des crachats
+s'il y a des crachats de sang (terme médical à utiliser = hémoptysie)
+autre détail pertinent
